@@ -1,2 +1,2 @@
 # hello-world
-generic
+generic v2.0
